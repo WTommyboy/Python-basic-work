@@ -14,4 +14,3 @@ for line in fh:
      vv = vv+1
      zz = (counts/vv)
 print ('Average spam confidence: ', zz)
-#mbox-short.txt
